@@ -29,9 +29,9 @@ The following table summarizes the training and test accuracy scores as well as 
 
 The second goal of the project was to evaluate users profiles by doing a prediction.  Profiles for Mike & Lonnie were developed and ran through each model.
 
-The following table summarizes the predictions for both Mike & Lonnie.  
+The following table summarizes the predictions for both Mike & Lonnie & class members who also provided their profiles.  
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 With the exception of Adaboost, all the models made the same prediction for each person.  Both Mike & Lonnie felt that the predictions made were accurate.
 
